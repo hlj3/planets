@@ -1,0 +1,9 @@
+Hello Rabbit. would you like a kale and mango smoothie?
+
+
+1. change file
+2. save file
+3. git add . 
+4. git status "what do I see"
+5. git commit -m "i made changes"
+6. git push
